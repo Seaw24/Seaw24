@@ -22,10 +22,10 @@
 
 ## 🎯 Featured Projects:
 
-### ✅ [Dog Breed Classification Neural Network](https://github.com/Seaw24/dog-breed-rnn)
+### ✅ [Dog Breed Classification Neural Network]([https://github.com/Seaw24/dog-breed-rnn](https://github.com/Seaw24/Your-Dog-Breed)
 Built a complete 3-layer neural network from scratch using pure NumPy to classify 867 images across 9 dog breeds. Implemented advanced techniques including Xavier initialization, L2 regularization, and numerically stable softmax functions.
 
-### ✅ [Youth Savings Platform](https://github.com/Seaw24/youth-savings)
+### ✅ [Youth Savings Platform]([https://github.com/Seaw24/youth-savings](https://github.com/Seaw24/YouthSavings)
 MERN stack application that tracks expenses while suggesting budget-friendly recreational activities to encourage social connection[1]. Features TypeScript frontend with React and TailwindCSS, Express.js backend, and MongoDB Atlas database.
 
 
@@ -35,7 +35,7 @@ A mobile app of a real-time feedback AI Coach in Vietnam.
 ### ✅ [Gaze estimation model @ WRL lab](https://uwrl.mech.utah.edu/2021/07/02/past-present-future-neck-exo/) (CURRENT)
 Transfer learning + CNN take eye images and output gaze in 2D.
 
-###  [Software enginner @ Chartwells](https://github.com/Seaw24/chartwells_automation) (CURRENT)
+###  ✅[Software enginner @ Chartwells](https://github.com/Seaw24/chartwells_automation) (CURRENT)
 Build automation to automate workflow of employees at Chartwells.
 
 
@@ -43,7 +43,6 @@ Build automation to automate workflow of employees at Chartwells.
 <div align="center">
 
 ### 👀 Profile Views
-[![Profile Views](https://visitcount.itsvg.in/api?id=Seaw24&icon=0&color=0)](https://visitcount.itsvg.in)
 
 *Building AI solutions that create real-world impact, one commit at a time* 🚀
 
