@@ -22,25 +22,20 @@
 
 ## 🎯 Featured Projects:
 
-### <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3e98423d-caab-48ce-9166-c375929015c1" />
- [Dog Breed Classification Neural Network](https://github.com/Seaw24/dog-breed-rnn)
+### ✅ [Dog Breed Classification Neural Network](https://github.com/Seaw24/dog-breed-rnn)
 Built a complete 3-layer neural network from scratch using pure NumPy to classify 867 images across 9 dog breeds. Implemented advanced techniques including Xavier initialization, L2 regularization, and numerically stable softmax functions.
 
-### <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/9e3ae426-d17a-4fa9-90ab-fc22f9b813d5" />
- [Youth Savings Platform](https://github.com/Seaw24/youth-savings)
+### ✅ [Youth Savings Platform](https://github.com/Seaw24/youth-savings)
 MERN stack application that tracks expenses while suggesting budget-friendly recreational activities to encourage social connection[1]. Features TypeScript frontend with React and TailwindCSS, Express.js backend, and MongoDB Atlas database.
 
 
-### <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ecf876f2-d208-4d91-8290-65e298982aab" />
-[Vinafit](https://github.com/Seaw24/Vinafit-mobile) (CURRENT)
+### ✅ [Vinafit](https://github.com/Seaw24/Vinafit-mobile) (CURRENT)
 A mobile app of a real-time feedback AI Coach in Vietnam. 
 
-### <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ecf876f2-d208-4d91-8290-65e298982aab" />
-[Gaze estimation model @ WRL lab](https://uwrl.mech.utah.edu/2021/07/02/past-present-future-neck-exo/) (CURRENT)
+### ✅ [Gaze estimation model @ WRL lab](https://uwrl.mech.utah.edu/2021/07/02/past-present-future-neck-exo/) (CURRENT)
 Transfer learning + CNN take eye images and output gaze in 2D.
 
-### <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ecf876f2-d208-4d91-8290-65e298982aab" />
-[Chartwells Automation @ Chartwells]([https://uwrl.mech.utah.edu/2021/07/02/past-present-future-neck-exo/](https://github.com/Seaw24/chartwells_automation) (CURRENT)
+###  [Software enginner @ Chartwells](https://github.com/Seaw24/chartwells_automation) (CURRENT)
 Build automation to automate workflow of employees at Chartwells.
 
 
