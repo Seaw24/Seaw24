@@ -1,17 +1,7 @@
 # 💫 About Me:
 
-**Computer Science Student** at University of Utah (3.9 GPA) with a passion for building AI solutions that create real-world impact[1]. Currently developing neural networks from scratch and exploring computer vision applications for social good.
+**Math & Machine learning** at University of Utah .
 
-🔬 **Current Projects:** 
-- Building a 3-layer neural network for dog breed classification using pure NumPy
-- Developing "Youth Savings" - a MERN stack financial management platform that encourages social connection
-- Working on **Emotion Glass** - smart glasses using computer vision to support individuals on the autism spectrum with real-time social cue interpretation
-
-💼 **Leadership:** Vice President for Operations at Student Life Office, managing $1M budget across 23 departments and leading 12-student delegations in legislative advocacy[1]. Proud to be the only international student in this leadership role.
-
-🌟 **Personal Journey:** Transformed language barriers from B- in English to straight A's while taking on leadership roles - proving that every challenge is a growth opportunity[3].
-
-📚 **Learning Focus:** Machine Learning fundamentals, Computer Vision, React development, and AI applications for social impact
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duc-nam-nguyen/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Seaw24) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Hài%20Code) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ducnam883@gmail.com)
@@ -32,42 +22,28 @@
 
 ## 🎯 Featured Projects:
 
-### 🧠 [Dog Breed Classification Neural Network](https://github.com/Seaw24/dog-breed-rnn)
+### <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3e98423d-caab-48ce-9166-c375929015c1" />
+ [Dog Breed Classification Neural Network](https://github.com/Seaw24/dog-breed-rnn)
 Built a complete 3-layer neural network from scratch using pure NumPy to classify 867 images across 9 dog breeds. Implemented advanced techniques including Xavier initialization, L2 regularization, and numerically stable softmax functions.
 
-### 💰 [Youth Savings Platform](https://github.com/Seaw24/youth-savings)
+### <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/9e3ae426-d17a-4fa9-90ab-fc22f9b813d5" />
+ [Youth Savings Platform](https://github.com/Seaw24/youth-savings)
 MERN stack application that tracks expenses while suggesting budget-friendly recreational activities to encourage social connection[1]. Features TypeScript frontend with React and TailwindCSS, Express.js backend, and MongoDB Atlas database.
 
-### 👓 Emotion Glass (In Development)
-Smart glasses using computer vision and speech analysis to detect emotional states, designed to support individuals on the autism spectrum with real-time social cue interpretation[2].
 
-## 🏆 Achievements:
-- 🎓 **3.9 GPA** at University of Utah (Computer Science)[5]
-- 🏛️ **Vice President for Operations** - Student Life Office[1]
-- 💰 **$1M Budget Management** across 23 departments[1]
-- 🌟 **Only International Student** in leadership position at college[1]
-- 📈 **Academic Transformation** - From B- to straight A's in all STEM courses[5]
-- 🗳️ **Legislative Advocacy** - Led 12-student delegation to Washington state legislators[1]
+### <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ecf876f2-d208-4d91-8290-65e298982aab" />
+[Vinafit](https://github.com/Seaw24/Vinafit-mobile) (CURRENT)
+A mobile app of a real-time feedback AI Coach in Vietnam. 
 
-## 📊 GitHub Analytics:
+### <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ecf876f2-d208-4d91-8290-65e298982aab" />
+[Gaze estimation model @ WRL lab](https://uwrl.mech.utah.edu/2021/07/02/past-present-future-neck-exo/) (CURRENT)
+Transfer learning + CNN take eye images and output gaze in 2D.
 
-<div align="center">
+### <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ecf876f2-d208-4d91-8290-65e298982aab" />
+[Chartwells Automation @ Chartwells]([https://uwrl.mech.utah.edu/2021/07/02/past-present-future-neck-exo/](https://github.com/Seaw24/chartwells_automation) (CURRENT)
+Build automation to automate workflow of employees at Chartwells.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seaw24&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Seaw24&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seaw24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
-## 💭 Daily Inspiration:
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 🔝 Top Contributed Repositories:
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Seaw24&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 
 <div align="center">
 
